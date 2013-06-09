@@ -1,0 +1,247 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+/* Table of Content
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	#Font-Face */
+
+/* #Site Styles
+================================================== */
+
+/* #Page Styles
+================================================== */
+
+/* #Media Queries
+================================================== */
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {
+		
+		}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {
+		}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {	
+			h3.head-title {
+			padding-left: 170px;
+			}
+		
+		}
+
+		
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		#hotline{
+			display:none;	
+		}
+		#header-nav-desktop{
+			display:block;
+		}
+		#slogan{
+			line-height:3.5em;	
+		}
+		h3.head-title {
+			padding-left: 170px;
+		}
+		/*
+		#header-nav-mobile{
+			display:block;
+		}
+		#header-logo-desktop{
+			display:none;
+		}
+		#header-logo-mobile{
+			display: block;
+			padding-left:100px;
+		}
+		nav ul li{
+			display: inline;
+			margin: 0 0px 130px 45px;
+		}
+		nav ul li a{ 
+			text-decoration:none;
+		}
+		#footer-a,#footer-b,#footer-c{
+			display:none;
+		}
+		#footer-mobile{
+			display:inline;
+			width:121px;
+			height:58px;
+			background:url("../images/LookANkunSubLogo.png") no-repeat scroll 0px 0px transparent;
+		}
+		*/
+		#footer-logo-desktop{
+			display:none;
+		}
+		#footer-logo-mobile{
+			display:block;
+			width:118px;
+			height:122px;
+			text-align:center;
+			background:url("../images/logo-footer.png") no-repeat scroll 0px 0px transparent;
+			margin:0px 0px 20px 175px;
+		}
+		#footer-nav-desktop{
+			display:none;
+		}
+		#footer-nav-mobile ul {
+			display: block;
+
+		}
+		#footer-nav-mobile ul li{
+			display: inline-block;
+			margin-right: 5px;
+		}
+		#copyright-desktop{
+			display:none;
+			
+		}
+		#copyright-mobile{
+			display:inline;
+			font-family:arial,helvetica,sans-serif;
+			font-size:0.83em;
+			text-align:center;
+			padding-left:90px;
+	
+		}
+		
+	
+	}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+		#hotline{
+			display:none;	
+		}
+		#header-nav-desktop{
+			display:block;
+		}
+		#header-nav-desktop ul li{
+			margin-right:20px;
+			margin-left:0px;
+		}
+		h3.head-title {
+			padding-left: 10px;
+		}
+		
+		#header-nav-desktop{
+			display:none;		
+		}
+		#header-nav-mobile{
+			display:block;
+		}
+		#header-nav-mobile ul{
+			margin-top:10px;
+				
+		}
+		#header-nav-mobile ul li{
+			font-family: Quark-Light ,arial,helvetica,sans-serif;
+			font-size:1.3em;
+			font-weight:600;
+			height: 30px;
+			text-transform: uppercase;
+			text-align:center;
+			display: block;
+			margin: 8px 15px 10px 7px;
+			text-decoration:none;
+		}
+		nav ul li a{
+			text-decoration:none;
+		}
+		#slogan ul{
+			line-height:3.5em;
+			margin-top:15px;
+		}
+		#header-nav-mobile ul{
+			margin: 0 0 10px 0;
+		}
+		#banner img{
+			margin: 10px 0 0 0;
+		}
+		h3.head-title {
+			padding-left: 105px;
+		}
+		#wrap-address{
+			margin-top:-30px;
+			margin-bottom:30px;
+		}
+		#wrap-content {
+			font-family: Quark-Light ,arial,helvetica,sans-serif;
+			padding-top: 10px;
+			padding-bottom: 25px;
+
+		}
+		input[type="submit"]{
+			 width: 312px;
+		}
+		/*
+		#footer-a,#footer-b,#footer-c{
+			display:none;
+		}
+		#footer-logo-desktop{
+			display:none;
+		}
+		#footer-logo-mobile{
+			display:block;
+			width:121px;
+			height:58px;
+			background:url("../images/LookANkunSubLogo.png") no-repeat scroll 0px 0px transparent;
+			margin:0px 0px 0px 90px;
+		}
+		#footer-nav-mobile{
+			display: inline;
+		}
+		#logo{
+		text-align:center;
+		
+		}
+		*/
+		#footer-logo-desktop{
+			display:none;
+		}
+		#footer-logo-mobile{
+			display:block;
+			width:118px;
+			height:122px;
+			text-align:center;
+			background:url("../images/logo-footer.png") no-repeat scroll 0px 0px transparent;
+			margin:0px 0px 20px 100px;
+		}
+		#footer-nav-desktop{
+			display:none;
+		}
+		#footer-nav-mobile ul {
+			display: block;
+
+		}
+		#footer-nav-mobile ul li{
+			display: inline-block;
+			margin-right: 5px;
+		}
+		#copyright-desktop{
+			display:none;
+			
+		}
+		#copyright-mobile{
+			display:inline;
+			font-family:arial,helvetica,sans-serif;
+			font-size:0.43em;
+			/*text-align:center;*/
+		
+	
+		}
+
+		
+	}
