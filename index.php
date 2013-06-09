@@ -50,7 +50,7 @@
 							<li class="dot"><img src="images/dot2.png">
 							</li>
 							<li>
-								<a href="portfolios.php">Portfolio</a>
+								<a href="portfolios.php">Portfolios</a>
 							</li>
 							<li class="dot"><img src="images/dot2.png">
 							</li>

@@ -74,7 +74,7 @@
 							<li><img src="images/dot2.png">
 							</li>
 							<li>
-								<a href="portfolios.php" >Portfolio</a>
+								<a href="portfolios.php" >Portfolios</a>
 							</li>
 							<li><img src="images/dot2.png">
 							</li>
