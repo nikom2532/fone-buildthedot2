@@ -74,7 +74,7 @@
 							<li><img src="images/dot2.png">
 							</li>
 							<li>
-								<a href="works.php" >Works</a>
+								<a href="portfolio.php" >Portfolio</a>
 							</li>
 							<li><img src="images/dot2.png">
 							</li>
@@ -91,7 +91,7 @@
 							<li><img src="images/dot2.png">
 							</li>
 							<li>
-								<a href="works.php" >Works</a>
+								<a href="portfolio.php" >Portfolio</a>
 							</li>
 							<li><img src="images/dot2.png">
 							</li>
@@ -187,7 +187,7 @@
 						<nav class="eight columns" id="footer-nav-desktop">
 							<ul class="right">
 								<a href="index.php"><li id="link-home"></li></a>
-								<a href="works.php"><li id="link-work"></li></a>
+								<a href="portfolio.php"><li id="link-work"></li></a>
 								<a href="contact.php"><li id="link-contact"></li></a>
 								<a href="http://www.facebook.com/BuildTheDot1"><li id="link-fb"></li></a>
 							</ul>
@@ -195,7 +195,7 @@
 						<nav class="sixteen columns" id="footer-nav-mobile">
 							<ul class="right">
 								<a href="index.php"><li id="link-home"></li></a>
-								<a href="work.php"><li id="link-work"></li></a>
+								<a href="portfolio.php"><li id="link-work"></li></a>
 								<a href="contact.php"><li id="link-contact"></li></a>
 								<a href="http://www.facebook.com/BuildTheDot1"><li id="link-fb"></li></a>
 							</ul>

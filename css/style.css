@@ -349,7 +349,7 @@ h4{
 }
 .yellow-tag{
 	background-color:#FFD400;
-	color:#FFFFFF;
+	color:#000000;
 }
 .grey-tag{
 	background-color:#383B3E;
@@ -543,6 +543,15 @@ footer{
 #copyright-mobile{
 	display:none;
 
+}
+#wrap-address a:link{
+	color: #ccc;
+}
+#wrap-address a:visited{
+	color: #ccc;
+}
+#wrap-address a:hover{
+	color: #FCC214;
 }
 /****************FORM******************/
 label.error{
