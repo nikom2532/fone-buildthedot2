@@ -74,7 +74,7 @@
 							<li><img src="images/dot2.png">
 							</li>
 							<li>
-								<a href="works.php" >Works</a>
+								<a href="portfolio.php" >Portfolio</a>
 							</li>
 							<li><img src="images/dot2.png">
 							</li>
@@ -89,7 +89,7 @@
 								<a href="index.php">Home</a>
 							</li>
 							<li>
-								<a href="works.php">Works</a>
+								<a href="portfolio.php">Portfolio</a>
 							</li>
 							<li>
 								<a href="contact.php">Contact us</a>
@@ -118,6 +118,24 @@
 					<div class="sixteen columns" >
 						<h3 class="head-title">ผลงาน</h3>
 					</div>
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Application</h3>
+						<h4>HelpDeskApp</h4>
+						<div id="wrap-works">
+							<img src="images/works/8.HelpDeskApp.png" width="506" height="328" alt="MTK WOOD">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
 					<div class="ten columns offset-by-two head-works">
 						<h3>Web Design</h3>
 						<h4>MTK WOOD</h4>
@@ -193,6 +211,219 @@
 						</div>
 					</div>
 					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Application</h3>
+						<h4>FoodEasy(Click2feed)</h4>
+						<div id="wrap-works">
+							<img src="images/works/17.Click2Feed-1.png" width="506" height="328" alt="FoodEasy(Click2feed)">
+							<img src="images/works/17.Click2Feed-2.png" width="506" height="328" alt="FoodEasy(Click2feed)">
+							<img src="images/works/17.Click2Feed-3.png" style="width:412px" alt="FoodEasy(Click2feed)">
+							<img src="images/works/17.Click2Feed-4.png" width="506" height="328" style="width:412px" alt="FoodEasy(Click2feed)">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Application</h3>
+						<h4>Hyro Android Training School</h4>
+						<div id="wrap-works">
+							<img src="images/works/7.HyroAndroidTrainingSchool.png" width="506" height="328" alt="Hyro Android Training School">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Application</h3>
+						<h4>U see U do</h4>
+						<div id="wrap-works">
+							<img src="images/works/5.UseeUdo1.png" width="506" height="328" alt="U see U do">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Application</h3>
+						<h4>Amaze School</h4>
+						<div id="wrap-works">
+							<img src="images/works/6.AmazeSchool-ed2.png" width="506" height="328" alt="Amaze School">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Application</h3>
+						<h4>university Project</h4>
+						<div id="wrap-works">
+							<img src="images/works/9.universityProject.jpg" width="506" height="328" alt="university Project">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+								<li class="grey-tag">
+									Responsive Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Application</h3>
+						<h4>i-Ming</h4>
+						<div id="wrap-works">
+							<div class="eight columns tag" style="margin:0;">
+								<ul style="margin:0;">
+									<li class="yellow-tag">
+										Prototype version
+									</li>
+								</ul>
+							</div>
+							<img src="images/works/2.i-ming1.jpg" width="506" height="328" alt="i-Ming">
+							<div class="eight columns tag" style="margin:0;">
+								<ul style="margin:0;">
+									<li class="yellow-tag">
+										version 1
+									</li>
+								</ul>
+							</div>
+							<img src="images/works/2.i-ming2.png" width="506" height="328" alt="i-Ming">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Application</h3>
+						<h4>ITPR Workbench's Web Application</h4>
+						<div id="wrap-works">
+							<img src="images/works/1.SCB-ITPR.jpg" width="506" height="328" alt="ITPR Workbench's Web Application">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Application</h3>
+						<h4>ITPR Change management (Support)</h4>
+						<div id="wrap-works">
+							<img src="images/works/11.OTRS.png" width="506" height="328" alt="ITPR Change management (Support)">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Design</h3>
+						<h4>RSU Homepage Competition 2005</h4>
+						<div id="wrap-works">
+							<img src="images/works/3.RSU.jpg" width="506" height="328" alt="RSU Homepage Competition 2005">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Design</h3>
+						<h4>nikom2532 in 2005</h4>
+						<div id="wrap-works">
+							<img src="images/works/10.nikom2532-2005.png" width="506" height="328" alt="nikom2532 in 2005">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
+					<div class="ten columns offset-by-two head-works">
+						<h3>Web Design</h3>
+						<h4>nikom2532 in 2003</h4>
+						<div id="wrap-works">
+							<img src="images/works/10.nikom2532-2003.png" width="506" height="328" alt="nikom2532 in 2003">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+					</div>
+					<br class="clear" />
 
 				</div><!--end wrap-content -->
 
@@ -234,7 +465,7 @@
 						<nav class="eight columns" id="footer-nav-desktop">
 							<ul class="right">
 								<a href="index.php"><li id="link-home"></li></a>
-								<a href="works.php"><li id="link-work"></li></a>
+								<a href="portfolio.php"><li id="link-work"></li></a>
 								<a href="contact.php"><li id="link-contact"></li></a>
 								<a href="http://www.facebook.com/BuildTheDot1"><li id="link-fb"></li></a>
 							</ul>
@@ -242,7 +473,7 @@
 						<nav class="sixteen columns" id="footer-nav-mobile">
 							<ul class="right">
 								<a href="index_.php"><li id="link-home"></li></a>
-								<a href="works.php"><li id="link-work"></li></a>
+								<a href="portfolio.php"><li id="link-work"></li></a>
 								<a href="contact.php"><li id="link-contact"></li></a>
 								<a href="http://www.facebook.com/BuildTheDot1"><li id="link-fb"></li></a>
 							</ul>
