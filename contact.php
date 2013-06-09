@@ -140,9 +140,12 @@
 						<div id="wrap-address">
 							<h4 class="title">ติดต่อทีมงาน</h4>
 							<h5 class="sub-title">โทรศัพท์</h5>
-							<h6>+66 (0) 8 7783 9922 </h6>
-							<h6>+66 (0) 8 3068 1807 </h6>
-							<h6>+66 (0) 8 5506 5953 </h6>
+							<h6 style="text-transform: none">Voravan:</h6>
+							<h6>+66 (0) 8 7783 9922 </h6><br />
+							<h6 style="text-transform: none">Patcharaporn:</h6>
+							<h6>+66 (0) 8 3068 1807 </h6><br />
+							<h6 style="text-transform: none">Arming Huang:</h6>
+							<h6>+66 (0) 8 5506 5953 </h6><br />
 							<h5 class="sub-title">อีเมลล์</h5>
 							<h6><a href="mailto:contact@buildthedot.com">contact@buildthedot.com</a></h6>
 						</div><!--end wrap-form -->
