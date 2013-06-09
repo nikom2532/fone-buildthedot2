@@ -166,9 +166,9 @@
 								<ul>
 									<li><h3>Contact Us</h3></li>
 									<li class="b600">Tel. </li>
-									<li>+ 087 783 9922</li>
-									<li>+ 083 068 1807</li>
-									<li>+ 085 506 5953</li>
+									<li>+66 (0) 8 7783 9922</li>
+									<li>+66 (0) 8 3068 1807</li>
+									<li>+66 (0) 8 5506 5953</li>
 									<li class="b600">Email </li>
 									<li  class="email">contact@buildthedot.com</li>
 								</ul>
