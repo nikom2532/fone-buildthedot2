@@ -170,7 +170,7 @@
 									<li>+66 (0) 8 3068 1807</li>
 									<li>+66 (0) 8 5506 5953</li>
 									<li class="b600">Email </li>
-									<li  class="email">contact@buildthedot.com</li>
+									<li class="email"><a href="mailto:contact@buildthedot.com">contact@buildthedot.com</a></li>
 								</ul>
 							</div>
 							<nav class="eight columns" id="footer-nav-desktop">

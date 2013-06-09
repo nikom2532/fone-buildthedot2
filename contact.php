@@ -119,7 +119,7 @@
 								<h6>+66 (0) 8 3068 1807</h6>
 								<h6>+66 (0) 8 5506 5953</h6>
                             <h5 class="sub-title">อีเมลล์</h5>
-								<h6>contact@buildthedot.com</h6>
+								<h6><a href="mailto:contact@buildthedot.com">contact@buildthedot.com</a></h6>
                         </div><!--end wrap-form -->    
                     </div>
                 </div>
@@ -142,7 +142,7 @@
 									<li>+66 (0) 8 3068 1807</li>
 									<li>+66 (0) 8 5506 5953</li>
 									<li class="b600">Email </li>
-									<li class="email">contact@buildthedot.com</li>
+									<li class="email"><a href="mailto:contact@buildthedot.com">contact@buildthedot.com</a></li>
 								</ul>
 							</div>
 							<nav class="eight columns" id="footer-nav-desktop">
