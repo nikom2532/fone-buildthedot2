@@ -154,8 +154,43 @@
 							</ul>
 						</div>
 						<br class="clear" />
-
-						<h3>Web Design</h3>
+						<h4>BillBoard</h4>
+						<div id="wrap-works">
+							<img src="images/works/18.Billboard1.png" width="506" height="328" alt="BillBoard">
+							<img src="images/works/18.Billboard2.png" width="506" height="328" alt="BillBoard">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
+						<h4>Arming Shake</h4>
+						<div id="wrap-works">
+							<img src="images/works/19.arming-shake.png" width="506" height="328" alt="BillBoard">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
+						<h4>Arming Metro-style</h4>
+						<div id="wrap-works">
+							<img src="images/works/20.Arming-Metro-style.png" width="506" height="328" alt="BillBoard">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
 						<h4>RSU Homepage Competition 2005</h4>
 						<div id="wrap-works">
 							<img src="images/works/3.RSU.jpg" width="506" height="328" alt="RSU Homepage Competition 2005">
