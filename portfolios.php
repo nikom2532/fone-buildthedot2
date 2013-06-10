@@ -119,24 +119,6 @@
 						<h3 class="head-title">ผลงาน</h3>
 					</div>
 					<div class="ten columns offset-by-two head-works">
-						<h3>Web Application</h3>
-						<h4>HelpDeskApp</h4>
-						<div id="wrap-works">
-							<img src="images/works/8.HelpDeskApp.png" width="506" height="328" alt="MTK WOOD">
-						</div>
-						<div class="eight columns tag">
-							<ul>
-								<li class="grey-tag">
-									Web Application
-								</li>
-								<li class="yellow-tag">
-									Web Design
-								</li>
-							</ul>
-						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
 						<h3>Web Design</h3>
 						<h4>MTK WOOD</h4>
 						<div id="wrap-works">
@@ -155,10 +137,76 @@
 								</li>
 							</ul>
 						</div>
+
+						<br class="clear" />
+						<h4>FoodEasy(Click2feed)</h4>
+						<div id="wrap-works">
+							<img src="images/works/17.Click2Feed-1.png" width="506" height="328" alt="FoodEasy(Click2feed)">
+							<img src="images/works/17.Click2Feed-2.png" width="506" height="328" alt="FoodEasy(Click2feed)">
+							<img src="images/works/17.Click2Feed-3.png" style="width:412px" alt="FoodEasy(Click2feed)">
+							<img src="images/works/17.Click2Feed-4.png" width="506" height="328" style="width:412px" alt="FoodEasy(Click2feed)">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
+
+						<h3>Web Design</h3>
+						<h4>RSU Homepage Competition 2005</h4>
+						<div id="wrap-works">
+							<img src="images/works/3.RSU.jpg" width="506" height="328" alt="RSU Homepage Competition 2005">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
+						<h4>nikom2532 in 2005</h4>
+						<div id="wrap-works">
+							<img src="images/works/10.nikom2532-2005.png" width="506" height="328" alt="nikom2532 in 2005">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
+						<h4>nikom2532 in 2003</h4>
+						<div id="wrap-works">
+							<img src="images/works/10.nikom2532-2003.png" width="506" height="328" alt="nikom2532 in 2003">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
 					</div>
 					<br class="clear" />
 					<div class="ten columns offset-by-two head-works">
 						<h3>Web Application</h3>
+						<h4>HelpDeskApp</h4>
+						<div id="wrap-works">
+							<img src="images/works/8.HelpDeskApp.png" width="506" height="328" alt="MTK WOOD">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									Web Application
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
 						<h4>Patient Information Management System in Hospital</h4>
 						<div id="wrap-works">
 							<img src="images/works/hospital2.png" width="506" height="376" alt="WebApp">
@@ -179,61 +227,8 @@
 								</li>
 							</ul>
 						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Iphone Application</h3>
-						<h4>AR Star</h4>
-						<div id="wrap-works">
-							<img src="images/works/ARMobile.png" width="210" height="390" alt="IphoneApp">
-						</div>
-						<div class="eight columns tag">
-							<ul>
-								<li class="grey-tag">
-									Iphone Application
-								</li>
-								<li class="yellow-tag">
-									Augmented Reality
-								</li>
-							</ul>
-						</div>
 						<br class="clear" />
-						<h4>Question For Kids</h4>
-						<div id="wrap-works">
-							<img src="images/works/QuestionForKidMobile.png" width="506" height="334" alt="IphoneApp">
-						</div>
-						<div class="eight columns tag">
-							<ul>
-								<li class="grey-tag">
-									Ipad Application
-								</li>
-							</ul>
-						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Web Application</h3>
-						<h4>FoodEasy(Click2feed)</h4>
-						<div id="wrap-works">
-							<img src="images/works/17.Click2Feed-1.png" width="506" height="328" alt="FoodEasy(Click2feed)">
-							<img src="images/works/17.Click2Feed-2.png" width="506" height="328" alt="FoodEasy(Click2feed)">
-							<img src="images/works/17.Click2Feed-3.png" style="width:412px" alt="FoodEasy(Click2feed)">
-							<img src="images/works/17.Click2Feed-4.png" width="506" height="328" style="width:412px" alt="FoodEasy(Click2feed)">
-						</div>
-						<div class="eight columns tag">
-							<ul>
-								<li class="grey-tag">
-									Web Application
-								</li>
-								<li class="yellow-tag">
-									Web Design
-								</li>
-							</ul>
-						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Web Application</h3>
+						<br class="clear" />
 						<h4>Hyro Android Training School</h4>
 						<div id="wrap-works">
 							<img src="images/works/7.HyroAndroidTrainingSchool.png" width="506" height="328" alt="Hyro Android Training School">
@@ -243,15 +238,9 @@
 								<li class="grey-tag">
 									Web Application
 								</li>
-								<li class="yellow-tag">
-									Web Design
-								</li>
 							</ul>
 						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Web Application</h3>
+						<br class="clear" />
 						<h4>U see U do</h4>
 						<div id="wrap-works">
 							<img src="images/works/5.UseeUdo1.png" width="506" height="328" alt="U see U do">
@@ -266,10 +255,7 @@
 								</li>
 							</ul>
 						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Web Application</h3>
+						<br class="clear" />
 						<h4>Amaze School</h4>
 						<div id="wrap-works">
 							<img src="images/works/6.AmazeSchool-ed2.png" width="506" height="328" alt="Amaze School">
@@ -284,19 +270,13 @@
 								</li>
 							</ul>
 						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Web Application</h3>
+						<br class="clear" />
 						<h4>university Project</h4>
 						<div id="wrap-works">
 							<img src="images/works/9.universityProject.jpg" width="506" height="328" alt="university Project">
 						</div>
 						<div class="eight columns tag">
 							<ul>
-								<li class="grey-tag">
-									Web Application
-								</li>
 								<li class="yellow-tag">
 									Web Design
 								</li>
@@ -305,10 +285,7 @@
 								</li>
 							</ul>
 						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Web Application</h3>
+						<br class="clear" />
 						<h4>i-Ming</h4>
 						<div id="wrap-works">
 							<div class="eight columns tag" style="margin:0;">
@@ -338,10 +315,7 @@
 								</li>
 							</ul>
 						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Web Application</h3>
+						<br class="clear" />
 						<h4>ITPR Workbench's Web Application</h4>
 						<div id="wrap-works">
 							<img src="images/works/1.SCB-ITPR.jpg" width="506" height="328" alt="ITPR Workbench's Web Application">
@@ -356,10 +330,7 @@
 								</li>
 							</ul>
 						</div>
-					</div>
-					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Web Application</h3>
+						<br class="clear" />
 						<h4>ITPR Change management (Support)</h4>
 						<div id="wrap-works">
 							<img src="images/works/11.OTRS.png" width="506" height="328" alt="ITPR Change management (Support)">
@@ -369,61 +340,45 @@
 								<li class="grey-tag">
 									Web Application
 								</li>
-								<li class="yellow-tag">
-									Web Design
-								</li>
 							</ul>
 						</div>
 					</div>
 					<br class="clear" />
 					<div class="ten columns offset-by-two head-works">
-						<h3>Web Design</h3>
-						<h4>RSU Homepage Competition 2005</h4>
+						<h3>AR Application</h3>
+						<h4>AR Star</h4>
 						<div id="wrap-works">
-							<img src="images/works/3.RSU.jpg" width="506" height="328" alt="RSU Homepage Competition 2005">
+							<img src="images/works/ARMobile.png" width="210" height="390" alt="IphoneApp">
 						</div>
 						<div class="eight columns tag">
 							<ul>
 								<li class="grey-tag">
-									Web Application
+									Iphone Application
 								</li>
 								<li class="yellow-tag">
-									Web Design
+									Augmented Reality
 								</li>
 							</ul>
 						</div>
+						<br class="clear" />
 					</div>
 					<br class="clear" />
 					<div class="ten columns offset-by-two head-works">
-						<h3>Web Design</h3>
-						<h4>nikom2532 in 2005</h4>
+						<h3>Mobile Application</h3>
+						<h4>Question For Kids</h4>
 						<div id="wrap-works">
-							<img src="images/works/10.nikom2532-2005.png" width="506" height="328" alt="nikom2532 in 2005">
+							<img src="images/works/QuestionForKidMobile.png" width="506" height="334" alt="IphoneApp">
 						</div>
 						<div class="eight columns tag">
 							<ul>
 								<li class="grey-tag">
-									Web Design
+									Ipad Application
 								</li>
 							</ul>
 						</div>
 					</div>
 					<br class="clear" />
-					<div class="ten columns offset-by-two head-works">
-						<h3>Web Design</h3>
-						<h4>nikom2532 in 2003</h4>
-						<div id="wrap-works">
-							<img src="images/works/10.nikom2532-2003.png" width="506" height="328" alt="nikom2532 in 2003">
-						</div>
-						<div class="eight columns tag">
-							<ul>
-								<li class="grey-tag">
-									Web Design
-								</li>
-							</ul>
-						</div>
-					</div>
-					<br class="clear" />
+						
 
 				</div><!--end wrap-content -->
 
