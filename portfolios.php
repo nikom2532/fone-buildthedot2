@@ -137,7 +137,6 @@
 								</li>
 							</ul>
 						</div>
-
 						<br class="clear" />
 						<h4>FoodEasy(Click2feed)</h4>
 						<div id="wrap-works">
@@ -150,6 +149,33 @@
 							<ul>
 								<li class="yellow-tag">
 									Web Design
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
+						<h4>Amaze School</h4>
+						<div id="wrap-works">
+							<img src="images/works/6.AmazeSchool-ed2.png" width="506" height="328" alt="Amaze School">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
+						<h4>university Project</h4>
+						<div id="wrap-works">
+							<img src="images/works/9.universityProject.jpg" width="506" height="328" alt="university Project">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="yellow-tag">
+									Web Design
+								</li>
+								<li class="grey-tag">
+									Responsive Web Design
 								</li>
 							</ul>
 						</div>
@@ -245,6 +271,7 @@
 						<h4>Patient Information Management System in Hospital</h4>
 						<div id="wrap-works">
 							<img src="images/works/hospital2.png" width="506" height="376" alt="WebApp">
+							<img src="images/works/21.PNIMS2.png" width="506" height="376" alt="WebApp">
 						</div>
 						<div class="eight columns tag">
 							<ul>
@@ -279,6 +306,7 @@
 						<h4>U see U do</h4>
 						<div id="wrap-works">
 							<img src="images/works/5.UseeUdo1.png" width="506" height="328" alt="U see U do">
+							<img src="images/works/5.UseeUdo2.png" width="506" height="328" alt="U see U do">
 						</div>
 						<div class="eight columns tag">
 							<ul>
@@ -287,36 +315,6 @@
 								</li>
 								<li class="yellow-tag">
 									Web Design
-								</li>
-							</ul>
-						</div>
-						<br class="clear" />
-						<h4>Amaze School</h4>
-						<div id="wrap-works">
-							<img src="images/works/6.AmazeSchool-ed2.png" width="506" height="328" alt="Amaze School">
-						</div>
-						<div class="eight columns tag">
-							<ul>
-								<li class="grey-tag">
-									Web Application
-								</li>
-								<li class="yellow-tag">
-									Web Design
-								</li>
-							</ul>
-						</div>
-						<br class="clear" />
-						<h4>university Project</h4>
-						<div id="wrap-works">
-							<img src="images/works/9.universityProject.jpg" width="506" height="328" alt="university Project">
-						</div>
-						<div class="eight columns tag">
-							<ul>
-								<li class="yellow-tag">
-									Web Design
-								</li>
-								<li class="grey-tag">
-									Responsive Web Design
 								</li>
 							</ul>
 						</div>
@@ -338,6 +336,7 @@
 									</li>
 								</ul>
 							</div>
+							<img src="images/works/2.i-ming3.png" width="506" height="328" alt="i-Ming">
 							<img src="images/works/2.i-ming2.png" width="506" height="328" alt="i-Ming">
 						</div>
 						<div class="eight columns tag">
