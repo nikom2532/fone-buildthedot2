@@ -260,7 +260,9 @@
 		-webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);
 		box-shadow:  0 0 3px rgba(0,0,0,.2); }
 	textarea {
-		min-height: 60px; }
+		font: 0.9em "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		min-height: 150px; 
+		}
 	label,
 	legend {
 		display: block;
