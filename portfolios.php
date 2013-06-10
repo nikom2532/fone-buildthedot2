@@ -12,48 +12,6 @@
 		<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 		<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 		<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-
-		<!--[if lt IE 9]>
-		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-		<script type='text/javascript' src='js/respond.min.js'></script>
-		<script src="js/jquery-1.7.1.min.js"></script>
-		<script type="text/javascript" src="js/jquery.validate.js"></script>
-
-		<script type='text/javascript'>
-			$(document).ready(function() {
-				$("#form1").validate({
-					rules : {
-						name : "required", // simple rule, converted to {required:true}
-						email : {// compound rule
-							required : true,
-							email : true
-						},
-						phone : {
-							required : true
-						},
-						comment : {
-							required : true
-						}
-					},
-					messages : {
-						name : "กรุณาระบุชื่อผู้ติดต่อ",
-						email : "กรุณาระบุอีเมลล์",
-						phone : "กระณาระบุหมายเลขโทรศัพท์",
-						comment : "กรุณาระบุข้อความ"
-
-					}
-				});
-
-				var str = location.href.toLowerCase();
-				$("#links a").each(function() {
-					if (str.indexOf(this.href.toLowerCase()) > -1) {
-						$("li.active").removeClass("active");
-						$(this).parent().addClass("active");
-					}
-				});
-			});
-		</script>
 	</head>
 	<body>
 		<div id="wrapper">
@@ -64,7 +22,10 @@
 					</div> -->
 					<div class="sixteen columns" id="logo">
 						<img src="images/logonew2.png" alt="BuildTheDot" width="126" height="192">
-
+					</div>
+					<div class="sixteen columns" id="language">
+						<a href="#" id="lang-th-portfolios">Thai</a>
+						<a href="#" id="lang-en-portfolios">English</a>
 					</div>
 					<nav class="sixteen columns" id="header-nav-desktop">
 						<ul id="links">
@@ -475,5 +436,47 @@
 				</div>
 			</footer>
 		</div><!--end wrapper -->
+		<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<script type='text/javascript' src='js/respond.min.js'></script>
+		<script src="js/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.validate.js"></script>
+
+		<script type='text/javascript'>
+			$(document).ready(function() {
+				$("#form1").validate({
+					rules : {
+						name : "required", // simple rule, converted to {required:true}
+						email : {// compound rule
+							required : true,
+							email : true
+						},
+						phone : {
+							required : true
+						},
+						comment : {
+							required : true
+						}
+					},
+					messages : {
+						name : "กรุณาระบุชื่อผู้ติดต่อ",
+						email : "กรุณาระบุอีเมลล์",
+						phone : "กระณาระบุหมายเลขโทรศัพท์",
+						comment : "กรุณาระบุข้อความ"
+
+					}
+				});
+
+				var str = location.href.toLowerCase();
+				$("#links a").each(function() {
+					if (str.indexOf(this.href.toLowerCase()) > -1) {
+						$("li.active").removeClass("active");
+						$(this).parent().addClass("active");
+					}
+				});
+			});
+		</script>
+		<script type='text/javascript' src='js/scripts.js'></script>
 	</body>
 </html>

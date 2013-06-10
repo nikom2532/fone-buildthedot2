@@ -31,12 +31,12 @@
 					<nav class="sixteen columns" id="header-nav-desktop">
 						<ul id="links">
 							<li>
-								<a href="index.php">Home</a>
+								<a href="index.php" id="home">Home</a>
 							</li>
 							<li><img src="images/dot2.png">
 							</li>
 							<li>
-								<a href="portfolios.php" >Portfolios</a>
+								<a href="portfolios.php" id="portfolios">Portfolios</a>
 							</li>
 							<li><img src="images/dot2.png">
 							</li>

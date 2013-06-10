@@ -5,6 +5,9 @@ var txt_indent_mobile_app_th = "ปัจจุบันโทรศัพท์
 var txt_indent_AR_app_en = "Augmented Reality is the Technology that merge between Actual environment and Virtual environment. By users can use the Camera, merge with the Application, they can be seen by me. they are 3D Model, Text, or position that can be seen in 360 degree. We created and develop AR Applction, and create the 3D model for iPhone, and Android Application wish you want, they can applied for using with Events job, Advertisement, Business card, CAT, or any entertainments.";
 var txt_indent_AR_app_th = "Augmented Reality เป็น Technology ที่รวมระหว่างสิ่งแวดล้อมจริงและ สิ่งแวดล้อมเสมือนเข้าด้วยกัน โดยผู้ใช้สามารถดูผ่านอุปกรณ์กล้องโทรศัพท์มือถือ รวมกับการใช้ Application ซึ่งจะทำให้เราเห็นภาพในจอ เป็นโมเดล3มิติ ข้อความ หรือพิกัดต่างๆ ซึ่งมีมุมมอง360องศา รับออกแบบและพัฒนา AR Application และปั้น 3D Model สำหรับระบบปฎิบัติการ IPhone และ Android ตามความต้องการ สามารถนำไปประยุกต์ใช้กับ งาน Event, การทำโฆษณา, ทำนามบัตร, สื่อการเรียนการสอน, หรือใช้เพื่อสร้างความบันเทิง";
 
+function onchange_menu_th(){
+	jQuery(".container #web-app .indent").html(txt_indent_web_app_th);
+}
 
 jQuery("#lang-th").click(
 	function(){
@@ -46,3 +49,16 @@ jQuery("#lang-en-contactus").click(
 		jQuery(".container #wrap-address .sub-title#email").html("E-mail");
 	}
 );
+jQuery("#lang-th-portfolios").click(
+	function(){
+		jQuery(".container #wrap-content h3.head-title").html("ผลงาน");
+	}
+);
+jQuery("#lang-en-portfolios").click(
+	function(){
+		jQuery(".container #wrap-content h3.head-title").html("portfolios");
+	}
+);
+
+
+head-title
