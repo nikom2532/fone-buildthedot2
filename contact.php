@@ -12,48 +12,6 @@
 		<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 		<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 		<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-
-		<!--[if lt IE 9]>
-		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-		<script type='text/javascript' src='js/respond.min.js'></script>
-		<script src="js/jquery-1.7.1.min.js"></script>
-		<script type="text/javascript" src="js/jquery.validate.js"></script>
-
-		<script type='text/javascript'>
-			$(document).ready(function() {
-				$("#form1").validate({
-					rules : {
-						name : "required", // simple rule, converted to {required:true}
-						email : {// compound rule
-							required : true,
-							email : true
-						},
-						phone : {
-							required : true
-						},
-						comment : {
-							required : true
-						}
-					},
-					messages : {
-						name : "กรุณาระบุชื่อผู้ติดต่อ",
-						email : "กรุณาระบุอีเมลล์",
-						phone : "กระณาระบุหมายเลขโทรศัพท์",
-						comment : "กรุณาระบุข้อความ"
-
-					}
-				});
-
-				var str = location.href.toLowerCase();
-				$("#links a").each(function() {
-					if (str.indexOf(this.href.toLowerCase()) > -1) {
-						$("li.active").removeClass("active");
-						$(this).parent().addClass("active");
-					}
-				});
-			});
-		</script>
 	</head>
 	<body>
 		<div id="wrapper">
@@ -65,6 +23,10 @@
 					<div class="sixteen columns" id="logo">
 						<img src="images/logonew2.png" alt="BuildTheDot" width="126" height="192">
 
+					</div>
+					<div class="sixteen columns" id="language">
+						<a href="#" id="lang-th-contactus">Thai</a>
+						<a href="#" id="lang-en-contactus">English</a>
 					</div>
 					<nav class="sixteen columns" id="header-nav-desktop">
 						<ul id="links">
@@ -125,13 +87,13 @@
 					<div class="seven columns offset-by-two" id="wrap-contact">
 						<div id="wrap-form">
 							<form id="form1" method="post" action="send_email.php">
-								<h4>ชื่อ <span class="text-red">*</span></h4>
+								<h4><span id="name">ชื่อ</span> <span class="text-red">*</span></h4>
 								<input type="text" name="name" id="name"  />
-								<h4>อีเมลล์ <span class="text-red">*</span></h4>
+								<h4><span id="email">อีเมลล์</span> <span class="text-red">*</span></h4>
 								<input type="text" name="email" id="email"/>
-								<h4>โทรศัพท์ <span class="text-red">*</span></h4>
+								<h4><span id="tel">โทรศัพท์</span> <span class="text-red">*</span></h4>
 								<input type="text" name="phone" id="phone"/>
-								<h4>ข้อความ <span class="text-red">*</span></h4>								<textarea name="comment" id="comment" ></textarea>
+								<h4><span id="textcontent">ข้อความ</span> <span class="text-red">*</span></h4>								<textarea name="comment" id="comment" ></textarea>
 								<input class="submit" id ="submit-btn"type="submit" value="Submit">
 							</form>
 						</div><!--end wrap-form -->
@@ -211,5 +173,48 @@
 				</div>
 			</footer>
 		</div><!--end wrapper -->
+		
+		<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<script type='text/javascript' src='js/respond.min.js'></script>
+		<script src="js/jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="js/jquery.validate.js"></script>
+
+		<script type='text/javascript'>
+			$(document).ready(function() {
+				$("#form1").validate({
+					rules : {
+						name : "required", // simple rule, converted to {required:true}
+						email : {// compound rule
+							required : true,
+							email : true
+						},
+						phone : {
+							required : true
+						},
+						comment : {
+							required : true
+						}
+					},
+					messages : {
+						name : "กรุณาระบุชื่อผู้ติดต่อ",
+						email : "กรุณาระบุอีเมลล์",
+						phone : "กระณาระบุหมายเลขโทรศัพท์",
+						comment : "กรุณาระบุข้อความ"
+
+					}
+				});
+
+				var str = location.href.toLowerCase();
+				$("#links a").each(function() {
+					if (str.indexOf(this.href.toLowerCase()) > -1) {
+						$("li.active").removeClass("active");
+						$(this).parent().addClass("active");
+					}
+				});
+			});
+		</script>
+		<script type='text/javascript' src='js/scripts.js'></script>
 	</body>
 </html>

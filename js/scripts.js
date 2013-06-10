@@ -4,6 +4,8 @@ var txt_indent_mobile_app_en = "Nowaday, Mobile phone is necessaried. Because wh
 var txt_indent_mobile_app_th = "ปัจจุบันโทรศัพท์มือถือ ถือเป็นสิ่งจำเป็น เนื่องจากการทำงาน การใช้ชีวิตไม่ได้อยู่กับที่ Mobile Application จะทำให้สามารถเข้าถึงธุรกิจของคุณได้มากขึ้นไม่ว่าจะอยู่ที่ไหน รับออกแบบแลพัฒนา IPhone และ Andoird Application โดยทีมงานที่มีความเชี่ยวชาญ สามารถพัฒนาโดยเชื่อมต่อกับ Facebook, การถ่ายรูป Upload รูปออนไลน์, การใช้ QR Code, Map หรือการเชื่อมต่อกับ Web Service และ Function อื่นๆตามความต้องการ";
 var txt_indent_AR_app_en = "Augmented Reality is the Technology that merge between Actual environment and Virtual environment. By users can use the Camera, merge with the Application, they can be seen by me. they are 3D Model, Text, or position that can be seen in 360 degree. We created and develop AR Applction, and create the 3D model for iPhone, and Android Application wish you want, they can applied for using with Events job, Advertisement, Business card, CAT, or any entertainments.";
 var txt_indent_AR_app_th = "Augmented Reality เป็น Technology ที่รวมระหว่างสิ่งแวดล้อมจริงและ สิ่งแวดล้อมเสมือนเข้าด้วยกัน โดยผู้ใช้สามารถดูผ่านอุปกรณ์กล้องโทรศัพท์มือถือ รวมกับการใช้ Application ซึ่งจะทำให้เราเห็นภาพในจอ เป็นโมเดล3มิติ ข้อความ หรือพิกัดต่างๆ ซึ่งมีมุมมอง360องศา รับออกแบบและพัฒนา AR Application และปั้น 3D Model สำหรับระบบปฎิบัติการ IPhone และ Android ตามความต้องการ สามารถนำไปประยุกต์ใช้กับ งาน Event, การทำโฆษณา, ทำนามบัตร, สื่อการเรียนการสอน, หรือใช้เพื่อสร้างความบันเทิง";
+
+
 jQuery("#lang-th").click(
 	function(){
 		jQuery(".container #web-app .indent").html(txt_indent_web_app_th);
@@ -16,5 +18,23 @@ jQuery("#lang-en").click(
 		jQuery(".container #web-app .indent").html(txt_indent_web_app_en);
 		jQuery(".container #mobile-app .indent").html(txt_indent_mobile_app_en);
 		jQuery(".container #AR-app .indent").html(txt_indent_AR_app_en);
+	}
+);
+jQuery("#lang-th-contactus").click(
+	function(){
+		jQuery(".container .head-title").html("ติดต่อเรา");
+		jQuery(".container .wrap-form #form1 #name").html("ชื่อ");
+		jQuery(".container .wrap-form #form1 #email").html("อีเมลล์");
+		jQuery(".container .wrap-form #form1 #tel").html("โทรศัพท์");
+		jQuery(".container .wrap-form #form1 #textcontent").html("ข้อความ");
+	}
+);
+jQuery("#lang-en-contactus").click(
+	function(){
+		jQuery(".container .head-title").html("Contact us");
+		jQuery(".container .wrap-form #form1 #name").html("Name");
+		jQuery(".container .wrap-form #form1 #email").html("E-mail");
+		jQuery(".container .wrap-form #form1 #tel").html("Telephone number");
+		jQuery(".container .wrap-form #form1 #textcontent").html("Contents");
 	}
 );
