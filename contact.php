@@ -94,21 +94,21 @@
 								<h4><span id="tel">โทรศัพท์</span> <span class="text-red">*</span></h4>
 								<input type="text" name="phone" id="phone"/>
 								<h4><span id="textcontent">ข้อความ</span> <span class="text-red">*</span></h4>								<textarea name="comment" id="comment" ></textarea>
-								<input class="submit" id ="submit-btn"type="submit" value="Submit">
+								<input class="submit" id ="submit-btn" type="submit" value="ส่ง">
 							</form>
 						</div><!--end wrap-form -->
 					</div>
 					<div class="six columns offset-by-one">
 						<div id="wrap-address">
 							<h4 class="title">ติดต่อทีมงาน</h4>
-							<h5 class="sub-title">โทรศัพท์</h5>
+							<h5 class="sub-title" id="tel">โทรศัพท์</h5>
 							<h6 style="text-transform: none">Voravan:</h6>
 							<h6>+66 (0) 8 7783 9922 </h6><br />
 							<h6 style="text-transform: none">Patcharaporn:</h6>
 							<h6>+66 (0) 8 3068 1807 </h6><br />
 							<h6 style="text-transform: none">Arming Huang:</h6>
 							<h6>+66 (0) 8 5506 5953 </h6><br />
-							<h5 class="sub-title">อีเมลล์</h5>
+							<h5 class="sub-title" id="email">อีเมลล์</h5>
 							<h6><a href="mailto:contact@buildthedot.com">contact@buildthedot.com</a></h6>
 						</div><!--end wrap-form -->
 					</div>

@@ -23,18 +23,26 @@ jQuery("#lang-en").click(
 jQuery("#lang-th-contactus").click(
 	function(){
 		jQuery(".container .head-title").html("ติดต่อเรา");
-		jQuery(".container .wrap-form #form1 #name").html("ชื่อ");
-		jQuery(".container .wrap-form #form1 #email").html("อีเมลล์");
-		jQuery(".container .wrap-form #form1 #tel").html("โทรศัพท์");
-		jQuery(".container .wrap-form #form1 #textcontent").html("ข้อความ");
+		jQuery(".container #wrap-form #form1 #name").html("ชื่อ");
+		jQuery(".container #wrap-form #form1 #email").html("อีเมลล์");
+		jQuery(".container #wrap-form #form1 #tel").html("โทรศัพท์");
+		jQuery(".container #wrap-form #form1 #textcontent").html("ข้อความ");
+		jQuery(".container #wrap-form #form1 #submit-btn.submit").val("ส่ง");
+		jQuery(".container #wrap-address .title").html("ติดต่อทีมงาน");
+		jQuery(".container #wrap-address .sub-title#tel").html("โทรศัพท์");
+		jQuery(".container #wrap-address .sub-title#email").html("อีเมลล์");
 	}
 );
 jQuery("#lang-en-contactus").click(
 	function(){
 		jQuery(".container .head-title").html("Contact us");
-		jQuery(".container .wrap-form #form1 #name").html("Name");
-		jQuery(".container .wrap-form #form1 #email").html("E-mail");
-		jQuery(".container .wrap-form #form1 #tel").html("Telephone number");
-		jQuery(".container .wrap-form #form1 #textcontent").html("Contents");
+		jQuery(".container #wrap-form #form1 #name").html("Name");
+		jQuery(".container #wrap-form #form1 #email").html("E-mail");
+		jQuery(".container #wrap-form #form1 #tel").html("Telephone number");
+		jQuery(".container #wrap-form #form1 #textcontent").html("Contents");
+		jQuery(".container #wrap-form #form1 #submit-btn.submit").val("Send");
+		jQuery(".container #wrap-address .title").html("Contect Team");
+		jQuery(".container #wrap-address .sub-title#tel").html("Telephone");
+		jQuery(".container #wrap-address .sub-title#email").html("E-mail");
 	}
 );
