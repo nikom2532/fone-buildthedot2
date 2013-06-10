@@ -12,24 +12,6 @@
 		<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
 		<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
 		<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-
-		<!--[if lt IE 9]>
-		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-		<script type='text/javascript' src='js/respond.min.js'></script>
-		<script type='text/javascript' src='js/jquery-1.7.1.min.js'></script>
-
-		<script type='text/javascript'>
-			$(document).ready(function() {
-				var str = location.href.toLowerCase();
-				$("#links a").each(function() {
-					if (str.indexOf(this.href.toLowerCase()) > -1) {
-						$("li.active").removeClass("active");
-						$(this).parent().addClass("active");
-					}
-				});
-			})
-		</script>
 	</head>
 	<body>
 		<div id="wrapper">
@@ -40,7 +22,10 @@
 					</div> -->
 					<div class="sixteen columns" id="logo">
 						<img src="images/logonew2.png" alt="BuildTheDot" width="126" height="192">
-
+					</div>
+					<div class="sixteen columns" id="language">
+						<a href="#" id="lang-th">Thai</a>
+						<a href="#" id="lang-en">English</a>
 					</div>
 					<nav class="sixteen columns" id="header-nav-desktop">
 						<ul id="links">
@@ -96,7 +81,7 @@
 			</div>
 			<div class="container">
 				<div id="wrap-feature">
-					<div class="one-third column feature">
+					<div class="one-third column feature" id="web-app">
 						<h3 class="feature-title">web application</h3>
 						<div id="wrap-icon">
 							<img src="images/icon_web1.png"  alt="Web Application">
@@ -109,7 +94,7 @@
 
 					</div>
 
-					<div class="one-third column feature">
+					<div class="one-third column feature" id="mobile-app">
 						<h3 class="feature-title">mobile application</h3>
 						<div id="wrap-icon">
 							<img src="images/icon_app1.png"  alt="Mobile Application">
@@ -121,7 +106,7 @@
 						</p>
 
 					</div>
-					<div class="one-third column feature">
+					<div class="one-third column feature" id="AR-app">
 						<h3 class="feature-title">ar application</h3>
 						<div id="wrap-icon">
 							<img src="images/icon_ar1.png"  alt="AR Application">
@@ -193,5 +178,23 @@
 				</div>
 			</footer>
 		</div><!--end wrapper -->
+		
+		<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<script type='text/javascript' src='js/respond.min.js'></script>
+		<script type='text/javascript' src='js/jquery-1.7.1.min.js'></script>
+		<script type='text/javascript'>
+			$(document).ready(function() {
+				var str = location.href.toLowerCase();
+				$("#links a").each(function() {
+					if (str.indexOf(this.href.toLowerCase()) > -1) {
+						$("li.active").removeClass("active");
+						$(this).parent().addClass("active");
+					}
+				});
+			})
+		</script>
+		<script type='text/javascript' src='js/scripts.js'></script>
 	</body>
 </html>
