@@ -400,6 +400,23 @@
 					</div>
 					<br class="clear" />
 					<div class="ten columns offset-by-two head-works">
+						<h3>isuzu</h3>
+						<h4>TexCal</h4>
+						<div id="wrap-works">
+							<img src="images/works/26.isuzu.png" width="506" height="328" alt="MTK WOOD">
+						</div>
+						<div class="eight columns tag">
+							<ul>
+								<li class="grey-tag">
+									iOS Application
+								</li>
+								<li class="yellow-tag">
+									iOS Design
+								</li>
+							</ul>
+						</div>
+						<br class="clear" />
+						
 						<h3>Mobile Application</h3>
 						<h4>TexCal</h4>
 						<div id="wrap-works">
@@ -407,8 +424,11 @@
 						</div>
 						<div class="eight columns tag">
 							<ul>
+								<li class="grey-tag">
+									iOS Application
+								</li>
 								<li class="yellow-tag">
-									Web Design
+									iOS Design
 								</li>
 							</ul>
 						</div>
