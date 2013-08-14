@@ -400,8 +400,8 @@
 					</div>
 					<br class="clear" />
 					<div class="ten columns offset-by-two head-works">
-						<h3>isuzu</h3>
-						<h4>TexCal</h4>
+						<h3>Mobile Application</h3>
+						<h4>isuzu</h4>
 						<div id="wrap-works">
 							<img src="images/works/26.isuzu.png" width="506" height="328" alt="MTK WOOD">
 						</div>
@@ -416,8 +416,6 @@
 							</ul>
 						</div>
 						<br class="clear" />
-						
-						<h3>Mobile Application</h3>
 						<h4>TexCal</h4>
 						<div id="wrap-works">
 							<img src="images/works/24.TexCal.jpg" width="506" height="328" alt="MTK WOOD">
