@@ -381,10 +381,8 @@
 						<br class="clear" />
 						<h4>AR Demo</h4>
 						<div id="wrap-works">
-							<img src="images/works/25.AR-1.png" width="210" height="390" alt="IphoneApp">
-							<img src="images/works/25.AR-2.png" width="210" height="390" alt="IphoneApp">
-							<img src="images/works/25.AR-3.png" width="210" height="390" alt="IphoneApp">
 							<img src="images/works/25.AR-4.png" width="210" height="390" alt="IphoneApp">
+							<img src="images/works/arCondo.jpg" width="210" height="390" alt="IphoneApp">
 						</div>
 						<div class="eight columns tag">
 							<ul>
@@ -408,23 +406,17 @@
 						<div class="eight columns tag">
 							<ul>
 								<li class="grey-tag">
-									iOS Application
-								</li>
-								<li class="yellow-tag">
-									iOS Design
+									Android Application
 								</li>
 							</ul>
 						</div>
 						<br class="clear" />
-						<h4>TexCal</h4>
+						<h4>TaxCal</h4>
 						<div id="wrap-works">
-							<img src="images/works/24.TexCal.jpg" width="506" height="328" alt="MTK WOOD">
+							<img src="images/works/taxCal.png" width="506" height="328" alt="MTK WOOD">
 						</div>
 						<div class="eight columns tag">
 							<ul>
-								<li class="grey-tag">
-									iOS Application
-								</li>
 								<li class="yellow-tag">
 									iOS Design
 								</li>
@@ -439,6 +431,9 @@
 							<ul>
 								<li class="grey-tag">
 									Ipad Application
+								</li>
+								<li class="yellow-tag">
+									Ipad Design
 								</li>
 							</ul>
 						</div>
